@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Meditation themes
+title: On Buddhism
 nav_order: 2
 ---
 
